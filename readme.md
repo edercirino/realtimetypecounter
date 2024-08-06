@@ -1,6 +1,6 @@
 # Real Time Type Counter  
 
-## A Random Number Generator with manual and automatic generation
+## Count the characters while typing
 
 <p align="center">
     <a href="#author"> 🔎	About the Author</a>
@@ -42,9 +42,7 @@ Project status: ✅Done
 
 - Clone this repository and save in your desktop directory
 - Double click on index.html
-- Type a initial number above 1
-- Type a initial number below 999
-- Press manual generate or automatic generate
+- Start type and count
 
 ## 🌐 Used Tecnologies
 
