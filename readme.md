@@ -22,8 +22,8 @@ Project status: ✅Done
 
 ### 📝 Features
 
-- [x] Manual Generating Number
-- [x] Automatic Generating Number
+- [x] Count characters white type. 
+- [x] The limit is 50 characters
 
 ### 🧐 Demonstration
 
