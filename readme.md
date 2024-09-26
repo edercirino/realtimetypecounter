@@ -28,7 +28,7 @@ Project status: ✅Done
 ### 🧐 Demonstration
 
 <h1 align=center>
-<img alt="qrcode generator" title="main page" src="./screenshots/screenshot.png">
+<img alt="realtime type counter" title="main page" src="./screenshots/screenshot.png">
 </h1>
 
 ## 👩🏻‍💻 How to test this application
